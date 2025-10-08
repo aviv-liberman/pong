@@ -285,6 +285,6 @@ Module.expectedDataFileDownloads++;
     }
 
   }
-  loadPackage({"package_uuid":"ec4384a2-51c0-4d13-8502-260dc555c9d1","remote_package_size":25830,"files":[{"filename":"/assets/fonts/Minecraft.ttf","crunched":0,"start":0,"end":14488,"audio":false},{"filename":"/main.lua","crunched":0,"start":14488,"end":25830,"audio":false}]});
+  loadPackage({"package_uuid":"421f208d-4034-481b-99df-65a00f0fb822","remote_package_size":27949,"files":[{"filename":"/assets/fonts/Minecraft.ttf","crunched":0,"start":0,"end":14488,"audio":false},{"filename":"/main.lua","crunched":0,"start":14488,"end":27949,"audio":false}]});
 
 })();
